@@ -1,13 +1,13 @@
 ---
 title: 'Welcome to the development blog for Llama RPG!'
 excerpt: 'We are excited to share with you the progress and concept art for our upcoming game. Llama RPG is a 2D pixel art style game that features turn-based combat similar to Pokemon and Final Fantasy.'
-coverImage: '/assets/blog/welcome/welcomecover.jpg'
+coverImage: '/blog/assets/blog/welcome/welcomecover.jpg'
 date: '2022-10-25T05:35:07.322Z'
 author:
   name: MrLlama
-  picture: '/assets/blog/authors/mrllama.png'
+  picture: '/blog/assets/blog/authors/mrllama.png'
 ogImage:
-  url: '/assets/blog/welcome/welcomecover.jpg'
+  url: '/blog/assets/blog/welcome/welcomecover.jpg'
 ---
 
 ## Hello!

@@ -1,13 +1,13 @@
 ---
 title: 'Messing around with AI generated art'
 excerpt: 'paint gets carried away with AI generated art'
-coverImage: '/assets/blog/aiart/cover.jpg'
+coverImage: '/blog/assets/blog/aiart/cover.jpg'
 date: '2023-01-10T05:35:07.322Z'
 author:
   name: paint
-  picture: '/assets/blog/authors/paint.png'
+  picture: '/blog/assets/blog/authors/paint.png'
 ogImage:
-  url: '/assets/blog/aiart/cover.jpg'
+  url: '/blog/assets/blog/aiart/cover.jpg'
 ---
 
 ## A few notes...
