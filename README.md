@@ -1,3 +1,3 @@
 # LLAMA RPG
 
-![llama](/assets/blog/welcome/welcomecover.jpg)
+![llama](/public/assets/blog/welcome/welcomecover.jpg)
