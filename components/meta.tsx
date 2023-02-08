@@ -36,7 +36,19 @@ const Meta = () => {
         name="description"
         content={SITE_TITLE}
       />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      
+      <meta property="og:url" content="https://www.llamarpg.com/" />
+      <meta property="og:type" content="website"/>
+      <meta property="og:title" content="LLAMA RPG"/>
+      <meta property="og:description" content="LLAMA RPG"/>
+      <meta property="og:image" content="https://www.llamarpg.com/assets/blog/aiart/cover.jpg"/>
+
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta property="twitter:domain" content="llamarpg.com"/>
+      <meta property="twitter:url" content="https://www.llamarpg.com/"/>
+      <meta name="twitter:title" content="LLAMA RPG"/>
+      <meta name="twitter:description" content="LLAMA RPG"/>
+      <meta name="twitter:image" content="https://www.llamarpg.com/assets/blog/aiart/cover.jpg"/>
     </Head>
   )
 }
