@@ -30,7 +30,7 @@ const Alert = ({ preview }: Props) => {
             <>
               Check out the {' '}
               <a
-                href={`https://llamarpg.github.io/skills-calculator/`}
+                href={`https://skill-calc.llamarpg.com/`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 Skill Calculator
