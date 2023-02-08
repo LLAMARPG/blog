@@ -1,13 +1,13 @@
 ---
 title: 'Introducing the development team behind Llama RPG!'
 excerpt: 'Leading the team is MrLlamaSC, who is the creator and man in charge of the project. MrLlamaSC has a passion for video games and has been working on this project for several years.'
-coverImage: '/blog/assets/blog/theteam/firstgroupphoto.png'
+coverImage: '/assets/blog/theteam/firstgroupphoto.png'
 date: '2022-11-16T05:35:07.322Z'
 author:
   name: MrLlamaSC
-  picture: '/blog/assets/blog/authors/mrllama.png'
+  picture: '/assets/blog/authors/mrllama.png'
 ogImage:
-  url: '/blog/assets/blog/theteam/firstgroupphoto.png'
+  url: '/assets/blog/theteam/firstgroupphoto.png'
 ---
 
 ## The Team
