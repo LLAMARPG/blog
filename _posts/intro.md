@@ -1,13 +1,13 @@
 ---
 title: 'LlamaRPG Introduction'
 excerpt: 'A breakdown of LlamaRPG and what is to come!'
-coverImage: '/assets/blog/welcome/welcomecover.jpg'
+coverImage: '/assets/blog/welcome/cover.jpg'
 date: '2023-02-09T05:35:07.322Z'
 author:
   name: MrLlama
   picture: '/assets/blog/authors/mrllama.png'
 ogImage:
-  url: '/assets/blog/welcome/welcomecover.jpg'
+  url: '/assets/blog/welcome/cover.jpg'
 ---
 
 
