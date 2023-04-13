@@ -12,16 +12,18 @@ ogImage:
 
 ## Crafting overview - MrLlama discusses
 
----
+<hr />
 
-#### Q&A
-<center>
-<iframe width="1920" height="807" src="https://www.youtube.com/embed/1NR6JcDghGA" title="LlamaRPG LIVE Q&amp;A (Recording)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
+### Q&A
 
----
+<div style="width:100%;display:flex;flex-flow:column;align-items:center;">
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/1NR6JcDghGA" title="LlamaRPG LIVE Q&amp;A (Recording)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-#### In-Depth Crafting Overview
-<center>
-<iframe width="1920" height="807" src="https://www.youtube.com/embed/Hho_LCPSNA0" title="LlamaRPG In-Depth CRAFTING Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
+<hr />
+
+### In-Depth Crafting Overview
+
+<div style="width:100%;display:flex;flex-flow:column;align-items:center;">
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/Hho_LCPSNA0" title="LlamaRPG In-Depth CRAFTING Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
